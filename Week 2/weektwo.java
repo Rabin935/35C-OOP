@@ -206,6 +206,7 @@ public class weektwo {
         System.out.println("Total percentage "+ (percentage)+"%");
         System.out.println("Final results is "+ (result));
 
+        
 
         scan.close();
     }
