@@ -17,7 +17,7 @@ public class cwtask {
         // Task 3
         int l = 15;
         int b = 12;
-        int a = l * b;
+        // int a = l * b;
         double p = 2 *(l + b);
         System.out.println("The area and perimeter of rectangle is "+ (p));
 
